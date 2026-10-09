@@ -1,3 +1,6 @@
 <Solution>
+  <Folder Name="/Wk2LearnBlazorWebApp/">
+    <Project Path="Wk2LearnBlazorWebApp/BlazorApp/BlazorApp.csproj" />
+  </Folder>
   <Project Path="MyConsoleApp/MyConsoleApp.csproj" />
 </Solution>
